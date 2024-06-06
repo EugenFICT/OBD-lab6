@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/edu-dis-labs/',
+  base: '/OBD-lab6/',
   theme: 'cool',
   // dest: 'dist',
   head: [
@@ -66,12 +66,6 @@ module.exports = {
       title: 'Висновки',
       path:"/conclusion/"
     },
-    
-    {
-      title: 'API',
-      path:"/api/"
-    }
-
   ],
     sidebarDepth: 2,
     displayAllHeaders: true, // Default: false
